@@ -5,7 +5,7 @@
 <p align="center"><strong>Bem Vindo ao meu GitHub</strong><br> Estou a mais de um ano estudando tecnologia 🖥️ e a cada dia que passa me apaixono ❤️ mais pela área e fico com ainda mais vontade de ingressar no mercado de trabalho. Por conta da minha experiencia no Movimento Escoteiro do Brasil ⚜️ desenvolvi características de liderança e trabalho em equipe e em minha vida acadêmica, graças a dedicação e empenho, sempre apresentei um ótimo desempenho. <br> De uma olhada nos meus projetos</p>&nbsp;
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCruz09&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCruz9&layout=compact)
 
 
  &nbsp;
