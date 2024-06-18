@@ -1,19 +1,14 @@
 
 # 👋 Olá, eu sou o [Gustavo da Cruz 🡽](https://www.linkedin.com/in/gustavo-da-cruz-santos/)
 
-## Desenvolvedor Junior
+### Desenvolvedor Junior
+---
+
+## <b>Sobre mim</b>
  
-<p align="center"><strong>Bem Vindo ao meu GitHub</strong><br> Apaixonado por tecnologia e a cada dia que passa fico com ainda mais vontade de ingressar no mercado de trabalho. Por conta da minha experiencia no Movimento Escoteiro do Brasil ⚜️ desenvolvi características de liderança e trabalho em equipe e em minha vida acadêmica, graças a dedicação e empenho, sempre apresentei um ótimo desempenho. <br> De uma olhada nos meus projetos</p>&nbsp;
+<p align="left"><strong>Bem Vindo ao meu GitHub</strong><br> Apaixonado por tecnologia e a cada dia que passa fico com ainda mais vontade de ingressar no mercado de trabalho. Por conta da minha experiencia no Movimento Escoteiro do Brasil ⚜️ desenvolvi características de liderança e trabalho em equipe e em minha vida acadêmica, graças a dedicação e empenho, sempre apresentei um ótimo desempenho. <br> De uma olhada nos meus projetos</p>&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCruz9&layout=compact)
-
-
- &nbsp;
- &nbsp;
-
-
-
-## Minhas Habilidades:
+## <b>Minhas Habilidades:<b/>
 
 ![Java](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -26,7 +21,7 @@
 
 <img style="margin-bottom:100px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Plataformas de Trabalho:
+## <b>Plataformas de Trabalho:<b/>
 
 ![NetBeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
@@ -34,13 +29,13 @@
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-### Estudando Neste Momento:
+### <b>Estudando Neste Momento:<b/>
 
 ![Java Spring](https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 ![Java Spring Resrfull](https://img.shields.io/badge/Spring%20Restful-339933?style=for-the-badge&logo=springful&logoColor=white)&nbsp;
 
-### Banco de Dados:
+### <b>Banco de Dados:<b/>
 
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
