@@ -1,9 +1,9 @@
-<div  align="center" style="margin-bottom:100px">
-<h1 aling="center">Olá, eu sou o Gustavo da Cruz 😁</h1>
-</div>
- 
-<p align="center"><strong>Bem Vindo ao meu GitHub</strong><br> Estou a mais de um ano estudando tecnologia 🖥️ e a cada dia que passa me apaixono ❤️ mais pela área e fico com ainda mais vontade de ingressar no mercado de trabalho. Por conta da minha experiencia no Movimento Escoteiro do Brasil ⚜️ desenvolvi características de liderança e trabalho em equipe e em minha vida acadêmica, graças a dedicação e empenho, sempre apresentei um ótimo desempenho. <br> De uma olhada nos meus projetos</p>&nbsp;
 
+# 👋 Olá, eu sou o [Gustavo da Cruz 🡽](https://www.linkedin.com/in/gustavo-da-cruz-santos/)
+
+## Desenvolvedor Junior
+ 
+<p align="center"><strong>Bem Vindo ao meu GitHub</strong><br> Apaixonado por tecnologia e a cada dia que passa fico com ainda mais vontade de ingressar no mercado de trabalho. Por conta da minha experiencia no Movimento Escoteiro do Brasil ⚜️ desenvolvi características de liderança e trabalho em equipe e em minha vida acadêmica, graças a dedicação e empenho, sempre apresentei um ótimo desempenho. <br> De uma olhada nos meus projetos</p>&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCruz9&layout=compact)
 
@@ -21,7 +21,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-
+![Java Spring](https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 <img style="margin-bottom:100px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -36,7 +36,9 @@
 
 ### Estudando Neste Momento:
 
-![NodeJs](	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Java Spring](https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+![Java Spring Resrfull](https://img.shields.io/badge/Spring%20Restful-339933?style=for-the-badge&logo=springful&logoColor=white)&nbsp;
 
 ### Banco de Dados:
 
@@ -45,7 +47,7 @@
 &nbsp;
 &nbsp;
 
-## Contato:
+## <b>Contate-me</b>
 
 <a href = "mailto:contato.dacruz.gustavo09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-da-cruz-santos-250351225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
